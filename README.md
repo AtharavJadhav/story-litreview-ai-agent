@@ -4,21 +4,21 @@ AI Agents parse PDFs and story the Literature Review as an IP on the Story chain
 
 # What has been implemented
 
--[x] AI Agents built in typescript. Client AI Agent takes the Research Paper PDF from the user, extracts it and gives it to the Server AI Agent.
+- [x] AI Agents built in typescript. Client AI Agent takes the Research Paper PDF from the user, extracts it and gives it to the Server AI Agent.
 
--[x] Server AI Agent takes in the text, gives it to OPEN AI, generates the Literature Review and stores the text as an IP of the creator.
+- [x] Server AI Agent takes in the text, gives it to OPEN AI, generates the Literature Review and stores the text as an IP of the creator.
 
--[x] The IP is created on testnet.
+- [x] The IP is created on testnet.
 
--[x] Licence is created at the same time.
+- [x] Licence is created at the same time.
 
--[ ] Liscence token minting is giving some errors.
+- [ ] Liscence token minting is giving some errors.
 
--[ ] Revenue collection is not implemented.
+- [ ] Revenue collection is not implemented.
 
--[ ] Some other Agents utilizing stored IP assets have not been implemented.
+- [ ] Some other Agents utilizing stored IP assets have not been implemented.
 
--[ ] PDF transcription sometimes gives errors for certain PDFs
+- [ ] PDF transcription sometimes gives errors for certain PDFs
 
 # How to install
 
